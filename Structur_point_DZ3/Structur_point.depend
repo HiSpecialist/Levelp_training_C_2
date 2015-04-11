@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428707660 source:/home/vla/cbox/Structur_point/main.cpp
+	<iostream>
+	<math.h>
+	<assert.h>
+
