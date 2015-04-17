@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1429303725 source:/home/vla/cbox/Class_rational_fraction/main.cpp
+	<iostream>
+
+1429310716 source:/home/vla/cbox/Class_rational_fraction2/main.cpp
+	<iostream>
+	<math.h>
+
